@@ -13,4 +13,4 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 -->
 
-# ¡Hi! I'm Eliam Rodríguez Pérez
+# Hi! I'm Eliam Rodríguez Pérez
